@@ -14,16 +14,27 @@ cd ~/workspace
 git clone https://github.com/Pivotal-Austin/visual-studio-keybindings.git
 ```
 
-### 2. Import into Visual Studio
+### 2. Reset to default settings
+
+First we need to reset all settings to the defaults. This is
+necessarily destructive. **If you follow these instructions, make
+a backup as recommended by Microsoft in case you want to revert!**
 
 1. Go to the Tools menu.
 1. Select Import and Export Settings...
+1. Select Reset All Settings.
+1. After backing up your current settings, the next screen will default to *General*
+   being selected. Click finish and the settings will be reset successfully.
+
+### 3. Import into Visual Studio
+
+Now we need to load the 
 1. Browse to the appropriate file for your visual studio version.
-1. Import the settings.
+1. Import the settings by following the on screen commands.
 
 The settings should now be imported!
 
-## Notes
+## Keybinding List
 
 Below is the functionality that is supported:
 
