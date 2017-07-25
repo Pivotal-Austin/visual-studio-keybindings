@@ -48,4 +48,7 @@ Move File Left: CTRL + ALT + SHIFT + LEFT         (MoveToPreviousTabGroup)
 Move Left (Group of Files): NOT SUPPORTED
 Move Right (Group of Files): NOT SUPPORTED
 Reformat Code: CTRL + ALT + ENTER                 (Resharper_Reformat)
+
+Comment Single Line: ALT + /                      (Resharper_LineComment)
+Join Lines: CTRL + SHIFT + J                      (Resharper_JoinLines)
 ```
