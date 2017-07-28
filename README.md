@@ -62,4 +62,7 @@ Reformat Code: CTRL + ALT + ENTER                 (Resharper_Reformat)
 
 Comment Single Line: ALT + /                      (Resharper_LineComment)
 Join Lines: CTRL + SHIFT + J                      (Resharper_JoinLines)
+
+Jump to End of Line: ALT + RIGHT                  (Edit.EndLine)
+Jump to Start of Line: ALT + LEFT                 (Edit.StartLine)
 ```
