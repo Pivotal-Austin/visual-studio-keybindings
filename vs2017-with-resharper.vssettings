@@ -533,7 +533,7 @@
                     <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Text Editor">Ctrl+U, Ctrl+R</RemoveShortcut>
                     <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="XAML Designer">Ctrl+U, Ctrl+R</RemoveShortcut>
                     <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Global">Ctrl+U, Ctrl+R</RemoveShortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+Shift+Alt+U</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunSolution" Scope="Global">Ctrl+Shift+Alt+U</Shortcut>
                     <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Text Editor">Ctrl+U, Y</RemoveShortcut>
                     <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="XAML Designer">Ctrl+U, Y</RemoveShortcut>
                     <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Ctrl+Y</RemoveShortcut>
