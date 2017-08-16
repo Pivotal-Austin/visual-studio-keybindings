@@ -229,16 +229,12 @@
                     <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Text Editor">Alt+PgDn</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="XAML Designer">Alt+PgDn</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoNextHighlight" Scope="Global">Alt+PgDn</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_GotoNextMethod" Scope="Text Editor">Alt+Down Arrow</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_GotoNextMethod" Scope="XAML Designer">Alt+Down Arrow</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoPrevErrorInSolution" Scope="Global">Shift+Alt+PgUp</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoPrevErrorInSolution" Scope="Text Editor">Shift+Alt+PgUp</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoPrevErrorInSolution" Scope="XAML Designer">Shift+Alt+PgUp</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoPrevHighlight" Scope="Global">Alt+PgUp</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoPrevHighlight" Scope="Text Editor">Alt+PgUp</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoPrevHighlight" Scope="XAML Designer">Alt+PgUp</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_GotoPrevMethod" Scope="Text Editor">Alt+Up Arrow</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_GotoPrevMethod" Scope="XAML Designer">Alt+Up Arrow</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="Global">Ctrl+Shift+,</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="Text Editor">Ctrl+Shift+,</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_GotoRecentEdits" Scope="XAML Designer">Ctrl+Shift+,</Shortcut>
@@ -390,18 +386,6 @@
                     <Shortcut Command="ReSharper.ReSharper_UnitTestDebugContext" Scope="Text Editor">Ctrl+U, Ctrl+D</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestDebugContext" Scope="XAML Designer">Ctrl+U, Ctrl+D</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestDebugContext" Scope="Text Editor">Ctrl+U, D</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Y</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Text Editor">Ctrl+U, Y</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="XAML Designer">Ctrl+U, Y</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Ctrl+Y</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="XAML Designer">Ctrl+U, Ctrl+Y</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Text Editor">Ctrl+U, Ctrl+Y</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Global">Ctrl+U, Ctrl+R</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="XAML Designer">Ctrl+U, R</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Text Editor">Ctrl+U, R</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Global">Ctrl+U, R</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Text Editor">Ctrl+U, Ctrl+R</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="XAML Designer">Ctrl+U, Ctrl+R</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestRunSolution" Scope="Global">Ctrl+U, L</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestRunSolution" Scope="XAML Designer">Ctrl+U, L</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestRunSolution" Scope="Global">Ctrl+U, Ctrl+L</Shortcut>
@@ -420,12 +404,6 @@
                     <Shortcut Command="ReSharper.ReSharper_UnitTestSessionNewSession" Scope="XAML Designer">Ctrl+U, N</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestSessionNewSession" Scope="Global">Ctrl+U, N</Shortcut>
                     <Shortcut Command="ReSharper.ReSharper_UnitTestSessionNewSession" Scope="Text Editor">Ctrl+U, N</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="XAML Designer">Ctrl+U, U</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Ctrl+U, Ctrl+U</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Text Editor">Ctrl+U, U</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Ctrl+U, U</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Text Editor">Ctrl+U, Ctrl+U</Shortcut>
-                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="XAML Designer">Ctrl+U, Ctrl+U</Shortcut>
                     <Shortcut Command="ReSharper_AltEnter" Scope="Text Editor">Alt+Enter</Shortcut>
                     <Shortcut Command="ReSharper_AltEnter" Scope="XAML Designer">Alt+Enter</Shortcut>
                     <Shortcut Command="ReSharper_BookmarksGoToBookmark0" Scope="Global">Ctrl+0</Shortcut>
@@ -538,6 +516,40 @@
                     <Shortcut Command="ReSharper.ReSharper_JoinLines" Scope="Text Editor">Ctrl+Shift+J</Shortcut>
                     <Shortcut Command="Edit.LineEnd" Scope="Text Editor">Alt+Right Arrow</Shortcut>
                     <Shortcut Command="Edit.LineStart" Scope="Text Editor">Alt+Left Arrow</Shortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Alt+U</Shortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Ctrl+U, Ctrl+U</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Text Editor">Ctrl+U, U</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Global">Ctrl+U, U</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="Text Editor">Ctrl+U, Ctrl+U</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="XAML Designer">Ctrl+U, Ctrl+U</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestSessionRepeatPreviousRun" Scope="XAML Designer">Ctrl+U, U</RemoveShortcut>
+                    <RemoveShortcut Command="CommitAllEdits" Scope="Microsoft SQL Server Data Tools, T-SQL Editor">Shift+Alt+U</RemoveShortcut>
+                    <RemoveShortcut Command="CommitAllEdits" Scope="Microsoft SQL Server Data Tools, Table Designer">Shift+Alt+U</RemoveShortcut>
+                    <RemoveShortcut Command="SQL.SSDTSchemaCompareWriteUpdates" Scope="Microsoft SQL Server Data Tools, Schema Compare">Shift+Alt+U</RemoveShortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Global">Shift+Alt+U</Shortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="XAML Designer">Ctrl+U, R</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Text Editor">Ctrl+U, R</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Global">Ctrl+U, R</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Text Editor">Ctrl+U, Ctrl+R</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="XAML Designer">Ctrl+U, Ctrl+R</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunFromContext" Scope="Global">Ctrl+U, Ctrl+R</RemoveShortcut>
+                    <Shortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+Shift+Alt+U</Shortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Text Editor">Ctrl+U, Y</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="XAML Designer">Ctrl+U, Y</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Ctrl+Y</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="XAML Designer">Ctrl+U, Ctrl+Y</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Text Editor">Ctrl+U, Ctrl+Y</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_UnitTestRunCurrentSession" Scope="Global">Ctrl+U, Y</RemoveShortcut>
+                    <RemoveShortcut Command="GraphView.BottomtoTop" Scope="XML Schema Designer">Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Up" Scope="ADO.NET Entity Data Model Designer">Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_GotoPrevMethod" Scope="XAML Designer">Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_GotoPrevMethod" Scope="Text Editor">Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="TeamFoundationContextMenus.Commands.GoToTeamExplorerPreviousSectionContent" Scope="Team Explorer">Alt+Up Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="GraphView.ToptoBottom" Scope="XML Schema Designer">Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="OtherContextMenus.MicrosoftDataEntityDesignContext.MoveProperties.Down" Scope="ADO.NET Entity Data Model Designer">Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_GotoNextMethod" Scope="XAML Designer">Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="ReSharper.ReSharper_GotoNextMethod" Scope="Text Editor">Alt+Down Arrow</RemoveShortcut>
+                    <RemoveShortcut Command="TeamFoundationContextMenus.Commands.GoToTeamExplorerNextSectionContent" Scope="Team Explorer">Alt+Down Arrow</RemoveShortcut>
                 </UserShortcuts>
             </KeyboardShortcuts>
         </Category>
