@@ -39,6 +39,9 @@ The settings should now be imported!
 Below is the functionality that is supported:
 
 ```
+Rerun Previous Test: ALT + U                      (ReSharper_UnitTestSessionRepeatPreviousRun)
+Run Test at Cursor: SHIFT + ALT + U               (ReSharper_UnitTestRunFromContext)
+Run All Tests in Session: Ctrl + SHIFT + ALT + U  (ReSharper_UnitTestRunCurrentSession)
 Quick Open: CTRL + T                              (Resharper_GoToType)
 Close File: CTRL + W                              (CloseFile)
 Close All But This File: CTRL + SHIFT + W         (File.CloseAllButThis)
@@ -59,6 +62,7 @@ Move File Left: CTRL + ALT + SHIFT + LEFT         (MoveToPreviousTabGroup)
 Move Left (Group of Files): NOT SUPPORTED
 Move Right (Group of Files): NOT SUPPORTED
 Reformat Code: CTRL + ALT + ENTER                 (Resharper_Reformat)
+Quick Fix Menu: ALT + ENTER                       (?)
 
 Comment Single Line: ALT + /                      (Resharper_LineComment)
 Join Lines: CTRL + SHIFT + J                      (Resharper_JoinLines)
