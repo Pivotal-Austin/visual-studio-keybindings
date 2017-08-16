@@ -41,7 +41,7 @@ Below is the functionality that is supported:
 ```
 Rerun Previous Test: ALT + U                      (ReSharper_UnitTestSessionRepeatPreviousRun)
 Run Test at Cursor: SHIFT + ALT + U               (ReSharper_UnitTestRunFromContext)
-Run All Tests in Session: Ctrl + SHIFT + ALT + U  (ReSharper_UnitTestRunCurrentSession)
+Run All Tests in Solution: CTRL + SHIFT + ALT + U (ReSharper_UnitTestRunSolution)
 Quick Open: CTRL + T                              (Resharper_GoToType)
 Close File: CTRL + W                              (CloseFile)
 Close All But This File: CTRL + SHIFT + W         (File.CloseAllButThis)
